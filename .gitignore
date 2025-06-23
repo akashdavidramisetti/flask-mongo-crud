@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info
+
+# Env files
+.env
+.env.*
+
+# Virtual Envs
+venv/
+env/
+
+# Docker
+.docker/
+
+# OS and Editor
+.DS_Store
+.vscode/
+.idea/
